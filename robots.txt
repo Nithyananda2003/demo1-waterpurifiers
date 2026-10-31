@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://waterpurifieiresservices.orders741265.chatgpt.site/sitemap.xml
+Sitemap: https://waterpurifiers.vercel.app/sitemap.xml

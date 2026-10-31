@@ -32,13 +32,13 @@ Deploy these files to any static website host. Google Fonts loads the typefaces 
 
 ## Search engine optimisation
 
-The website targets water purifier servicing and RO repair in Mysore (Mysuru), particularly Gokulam Extension, and Bengaluru (Bangalore).
+The website targets water purifier servicing and RO repair in Mysore (Mysuru), particularly Gokulam Extension.
 
 Included: descriptive page title and headings, a meta description, canonical URL, social sharing metadata, Organization/WebSite/Service JSON-LD, `robots.txt`, and `sitemap.xml`. Business contact details and coverage are based on supplied information; no street address, ratings or reviews are invented.
 
 The configured canonical website is:
 
-https://waterpurifieiresservices.orders741265.chatgpt.site/
+https://waterpurifiers.vercel.app/
 
 If you deploy to a different primary domain, update the absolute URLs in `index.html`, `robots.txt`, and `sitemap.xml` together. Keep only the preferred domain in the sitemap.
 
